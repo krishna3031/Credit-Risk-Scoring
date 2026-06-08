@@ -98,7 +98,6 @@ jupyter notebook CreditRiskAssessing.ipynb
 ```
 credit-risk-assessment/
 ├── CreditRiskAssessing.ipynb   # Main notebook
-├── loan_data.csv               # Dataset (not included)
-├── requirements.txt
+├── loan_data.csv               # Dataset 
 └── README.md
 ```
