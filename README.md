@@ -1,5 +1,3 @@
-# Credit-Risk-Scoring
-Credit Risk Scoring using Machine Learning, SMOTE, Logistic Regression and Random Forest
 # Credit Risk Assessment
 
 A machine learning project to predict loan default risk using Logistic Regression and Random Forest, with SMOTE for class imbalance handling and SHAP for model explainability.
